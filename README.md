@@ -28,9 +28,28 @@ The goal was to host a static website on AWS by uploading a simple HTML file to 
 - Web browser (for testing)
 
 ## Proof of Work
+1. OVERVIEW OF THE BUCKET CREATED
+![Screenshot_18-5-2025_165739_af-south-1 console aws amazon com](https://github.com/user-attachments/assets/408a3881-c50a-4708-969f-1f095ba67404)
 
-Screenshots of the bucket, static website settings, and live site can be added here if needed for documentation or review.
+2. OBJECT INSIDE THE BUCKET
 
-## Date Completed
+![Screenshot_18-5-2025_165851_af-south-1 console aws amazon com](https://github.com/user-attachments/assets/114acc78-6916-4939-b636-1e901cd22c2f)
+
+3. STATIC WEBSITE HOSTING CONFIGURATION
+
+![Screenshot_18-5-2025_165932_af-south-1 console aws amazon com](https://github.com/user-attachments/assets/e7c8ab4f-c441-48f0-81eb-0e58de701194)
+
+4. BUCKET POLICY
+![Screenshot_18-5-2025_17027_af-south-1 console aws amazon com](https://github.com/user-attachments/assets/fe977989-5217-4d11-88ee-a295c81411f4)
+
+5.LIVE WEBSITE PREVIEW
+
+![Screenshot_18-5-2025_17146_practiselcaws s3-website af-south-1 amazonaws com](https://github.com/user-attachments/assets/5dd8b942-509f-45a0-8f4c-1fe8a4a24fc5)
+
+
+
+## Date Completed!
+MAY 2025
+
 
 May 2025
